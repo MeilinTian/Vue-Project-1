@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "irene",
+  "license": "MIT"
+}
